@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom"
 
-import Sidebar from "./componets/Sidebar"
-import Navbar from "./componets/Navbar"
+import Sidebar from "./componets/sidebar"
+import Navbar from "./componets/NavBar"
 
 import DashBoard from "./pages/DashBoard"
 import Projects from "./pages/Projects"
